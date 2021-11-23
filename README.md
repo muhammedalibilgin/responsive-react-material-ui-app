@@ -1,6 +1,10 @@
 This project is a responsive application using [material-ui](https://mui.com/) (version-5). It looks different on small screens (smaller than 600px).
 
-# Getting Started with Create React App
+---
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

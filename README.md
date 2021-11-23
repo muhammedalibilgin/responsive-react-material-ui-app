@@ -1,4 +1,4 @@
-This project is a responsive application using [material-ui](https://mui.com/). It looks different on small screens (smaller than 600px).
+This project is a responsive application using [material-ui](https://mui.com/) (version-5). It looks different on small screens (smaller than 600px).
 
 # Getting Started with Create React App
 
